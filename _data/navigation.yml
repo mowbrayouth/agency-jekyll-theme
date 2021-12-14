@@ -21,7 +21,7 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Leadership"
       section: team
-    - title: "Contact Us"
+    - title: "Contact"
       section: contact
       
 en-US:

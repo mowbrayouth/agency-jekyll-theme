@@ -10,23 +10,23 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
+
+carousels:
+      - images: 
+        - image: /assets/img/portfolio/06-thumbnail.jpg 
+        - image: /assets/img/portfolio/06-thumbnail.jpg 
+        - image: /assets/img/portfolio/06-thumbnail.jpg 
+        - image: /assets/img/portfolio/06-thumbnail.jpg 
+      - images: 
+        - image: /assets/img/portfolio/06-thumbnail.jpg 
+        - image: /assets/img/portfolio/06-thumbnail.jpg 
+        - image: /assets/img/portfolio/06-thumbnail.jpg 
+        - image: /assets/img/portfolio/06-thumbnail.jpg 
   header:
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
-    carousels:
-      - images: 
-        - image: /assets/img/portfolio/06-thumbnail.jpg 
-        - image: /assets/img/portfolio/06-thumbnail.jpg 
-        - image: /assets/img/portfolio/06-thumbnail.jpg 
-        - image: /assets/img/portfolio/06-thumbnail.jpg 
-      - images: 
-        - image: /assets/img/portfolio/06-thumbnail.jpg 
-        - image: /assets/img/portfolio/06-thumbnail.jpg 
-        - image: /assets/img/portfolio/06-thumbnail.jpg 
-        - image: /assets/img/portfolio/06-thumbnail.jpg 
-
 
   services:
     title: "Services"
@@ -343,3 +343,5 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+  
+  

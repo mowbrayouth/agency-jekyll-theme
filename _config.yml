@@ -38,14 +38,3 @@ markdown: kramdown
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
 
-carousels:
-  - images: 
-    - image: /assets/img/portfolio/06-thumbnail.jpg 
-    - image: /assets/img/portfolio/06-thumbnail.jpg 
-    - image: /assets/img/portfolio/06-thumbnail.jpg 
-    - image: /assets/img/portfolio/06-thumbnail.jpg 
-  - images: 
-    - image: /assets/img/portfolio/06-thumbnail.jpg 
-    - image: /assets/img/portfolio/06-thumbnail.jpg 
-    - image: /assets/img/portfolio/06-thumbnail.jpg 
-    - image: /assets/img/portfolio/06-thumbnail.jpg 

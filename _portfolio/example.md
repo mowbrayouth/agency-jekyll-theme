@@ -2,16 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Example
   subtitle: subtitle
-  thumbnail: /assets/img/project/carousel/logo.jpg
+  thumbnail: '/assets/img/portfolio/04-thumbnail.jpg'
   
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-carousel:
-  - logo.jpg
-  - logo.jpg
-  - logo.jpg
-alt: image alt text
+image: '/assets/img/portfolio/04-thumbnail.jpg'
 
 ---
 Use this area to describe your project. **Markdown** supported.

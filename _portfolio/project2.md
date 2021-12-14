@@ -11,15 +11,15 @@ image: 'assets/img/portfolio/04-thumbnail.jpg'
 
 carousel:
     - images: 
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
+      - image: /agency-jekyll-theme/assets/img/portfolio/04-thumbnail.jpg
+      - image: /agency-jekyll-theme/assets/img/portfolio/04-thumbnail.jpg
+      - image: /agency-jekyll-theme/assets/img/portfolio/04-thumbnail.jpg
+      - image: /agency-jekyll-theme/assets/img/portfolio/04-thumbnail.jpg
     - images: 
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
+      - image: /agency-jekyll-theme/assets/img/portfolio/04-thumbnail.jpg
+      - image: /agency-jekyll-theme/assets/img/portfolio/04-thumbnail.jpg
+      - image: /agency-jekyll-theme/assets/img/portfolio/04-thumbnail.jpg
+      - image: /agency-jekyll-theme/assets/img/portfolio/04-thumbnail.jpg
 ---
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}

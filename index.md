@@ -1,8 +1,3 @@
 ---
 layout: home
-images: 
-  - image: /uploads/slider/image1.jpg
-  - image: /uploads/slider/image2.jpg
-  - image: /uploads/slider/image3.jpg
-  - image: /uploads/slider/image4.jpg
 ---

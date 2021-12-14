@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Mowbray SDA Church Young Adults group!
-    text: It's Nice To Meet You
+    title: Welcome to ...
+    text: Mowbray SDA Church Young Adults group!
     button: Tell Me More
     buttonlink: "#services"
     carousels:

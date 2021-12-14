@@ -15,6 +15,18 @@ en: &DEFAULT_EN
     text: Mowbray SDA Church Young Adults group!
     button: Tell Me More
     buttonlink: "#services"
+ 
+  carousel:
+    - images: 
+      - image: /04-thumbnail.jpg
+      - image: /04-thumbnail.jpg
+      - image: /04-thumbnail.jpg
+      - image: /04-thumbnail.jpg
+    - images: 
+      - image: /04-thumbnail.jpg
+      - image: /04-thumbnail.jpg
+      - image: /04-thumbnail.jpg
+      - image: /04-thumbnail.jpg
 
   services:
     title: "Activities"

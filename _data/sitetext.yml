@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to Mowbray SDA Church Young Adults group!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -79,16 +79,20 @@ en: &DEFAULT_EN
           the things of God.
           
           AY MISSION 
+          
           The salvation of youth through Jesus Christ. We understand youth ministry to be that work of the church that is conducted for,
           with, and by young people.
           
           AY AIM 
+          
           The Advent message to all the world in my generation.
 
           AY MOTTO 
+          
           The love of Christ compels me.
 
           AY PLEDGE 
+          
           Loving the Lord Jesus, I promise to take an active part in the youth ministry of the church, doing what I can to help others 
           and to finish the work of the Gospel in all the world.
     section: about

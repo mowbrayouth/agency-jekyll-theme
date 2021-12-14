@@ -21,7 +21,7 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
-
+  
   <!-- Bootstrap core CSS -->
   <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
 
@@ -35,7 +35,7 @@
   <!-- Custom styles for this theme -->
   <!--<link href="assets/css/agency.min.css" rel="stylesheet">-->
   <link href="assets/css/agency.css" rel="stylesheet" />
-
+  {% include carousel.html height="50" unit="%" duration="7" number="2" %}
   <!-- Page container change top padding when nav shrinks -->
   {% if page.layout == "page" %}
   <style>

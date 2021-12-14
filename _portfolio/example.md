@@ -7,7 +7,10 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: 'assets/img/portfolio/04-thumbnail.jpg'
+carousel:
+- 04-thumbnail.jpg
+- 04-thumbnail.jpg
+- 04-thumbnail.jpg
 
 ---
 Use this area to describe your project. **Markdown** supported.

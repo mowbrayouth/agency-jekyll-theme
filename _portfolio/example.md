@@ -13,12 +13,5 @@ carousel:
 - 04-thumbnail.jpg
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+{% include my-gallery.html folder="accets/img/portifolio" %}
 

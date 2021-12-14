@@ -83,18 +83,26 @@ carousels:
   about:
     title: "About Us"
     text: "The Mowbray Seventh Day Young Adults group;"
-    body: >
+    body: |+
           A vibrant young people who have committed to the mission of spreading the Advent message to all in this generation. 
           Our objective is “To save from sin and guide into service”. To ensure the salvation of youth, we have a range of activities 
           that young people can participate in that help them develop spiritually, physically, mentally and even financially and most 
           importantly prepares them for heaven. We believe that the enemy will not prevail against youth who are actively involved in 
           the things of God.
-          AY MISSION: The salvation of youth through Jesus Christ. We understand youth ministry to be that work of the church that is conducted for, with, and by young people.
-          AY AIM: The Advent message to all the world in my generation.
+          
+          AY MISSION 
+          The salvation of youth through Jesus Christ. We understand youth ministry to be that work of the church that is conducted for,
+          with, and by young people.
+          
+          AY AIM 
+          The Advent message to all the world in my generation.
 
-          AY MOTTO: The love of Christ compels me.
+          AY MOTTO 
+          The love of Christ compels me.
 
-          AY PLEDGE: Loving the Lord Jesus, I promise to take an active part in the youth ministry of the church, doing what I can to help others and to finish the work of the Gospel in all the world.
+          AY PLEDGE 
+          Loving the Lord Jesus, I promise to take an active part in the youth ministry of the church, doing what I can to help others 
+          and to finish the work of the Gospel in all the world.
     section: about
 
   clients:

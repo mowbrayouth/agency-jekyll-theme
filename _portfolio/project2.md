@@ -10,4 +10,5 @@ subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: 'assets/img/portfolio/04-thumbnail.jpg'
 
 ---
-
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}

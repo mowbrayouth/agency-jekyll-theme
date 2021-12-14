@@ -47,7 +47,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Adventist Youth"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default

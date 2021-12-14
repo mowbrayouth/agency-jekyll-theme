@@ -23,9 +23,9 @@ en: &DEFAULT_EN
         - image: /assets/img/header.png
 
   services:
-    title: "Activiries"
+    title: "Activities"
     text: "Lorem ipsum"
-    section: Activities
+    section: services
     list:
       - title: "In-reach"
         desc: "Youth Week of Prayer, Prayer Breakfast"

@@ -36,7 +36,7 @@ en: &DEFAULT_EN
       - title: "Campouts"
         desc: "Young adults’ campout 2021"
         icon: fab fa-markdown
-       - title: "Other"
+      - title: "Other"
         desc: "Social Sundays, hikes, lunches, picnics etc"
         icon: fab fa-markdown
 

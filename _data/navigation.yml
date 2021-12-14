@@ -11,17 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Activities"
       section: services
-    - title: "Portfolio"
+    - title: "Gallery"
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "Adventist Youth"
       section: timeline
-    - title: "Team"
+    - title: "Leadership"
       section: team
-    - title: "Contact"
+    - title: "Contact Us"
       section: contact
       
 en-US:

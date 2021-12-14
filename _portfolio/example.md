@@ -7,8 +7,8 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-{% include my-gallery.html folder="accets/img/portifolio/" %}
+image: 'assets/img/portfolio/04-thumbnail.jpg'
 
 ---
-
+{% include my-gallery.html folder="accets/img/portifolio" %}
 

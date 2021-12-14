@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Activities"
-    text: "Lorem ipsum"
+    text: " "
     section: services
     list:
       - title: "In-reach"
@@ -42,7 +42,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Adventist Youth"
-    text: "Lorem ipsum timeline"
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: " "
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:

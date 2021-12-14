@@ -49,24 +49,24 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
+      - title: " AY MISSION"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: " The salvation of youth through Jesus Christ. We understand youth ministry to be that work of the church that is conducted for, with, and by young people."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
+      - title: "AY AIM"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "The Advent message to all the world in my generation."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: " AY MOTTO "
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "The love of Christ compels me."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
+      - title: "AY PLEDGE"
         year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Loving the Lord Jesus, I promise to take an active part in the youth ministry of the church, doing what I can to help others and to finish the work of the Gospel in all the world."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment

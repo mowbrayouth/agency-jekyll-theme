@@ -15,8 +15,9 @@ theme: jekyll-agency
 
 url    : "https://mowbrayouth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme" # the subpath of your site, e.g. /blog
-imagesurl: "/agency-jekyll-theme/assets/img/portfolio/"
-thumbsurl: "/agency-jekyll-theme/assets/img/portfolio/"
+imagesurl: "/agency-jekyll-theme/assets/img/gallery/Photos/"
+
+thumbsurl: "/agency-jekyll-theme/assets/img/gallery/Photos/"
 
 title      : Mowbray Seventh Day Young Adults
 email      : your-email@example.com #this is also the email contact forms will go to

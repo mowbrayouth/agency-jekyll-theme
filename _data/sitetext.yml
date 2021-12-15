@@ -29,13 +29,13 @@ en: &DEFAULT_EN
         icon: fas fa-bullhorn
       - title: "Campouts"
         desc: "Young adults’ campout 2021"
-        icon: fas fa-fire 
+        icon: fab fa-fire
       - title: "Other"
         desc: "Social Sundays, hikes, lunches, picnics etc"
         icon: fab fa-mountain
 
   portfolio:
-    title: "Portfolio"
+    title: "Gallery"
     text: " "
     section: portfolio
     closebutton: "Close Project"
@@ -103,7 +103,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: " "
-    subtext: 
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Rachael"
@@ -117,7 +117,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
             
-       - name: "Sibonelo"
+      - name: "Sibonelo"
         role: "Youth Leader"
         image: assets/img/team/2.jpg
         social:
@@ -127,7 +127,6 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-           
       
 
   contact:

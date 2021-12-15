@@ -123,7 +123,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
             
-      - name: "Cwaita"
+      - name: "Cwayita"
         role: "Youth Leader"
         image: assets/img/team/3.png
         social:

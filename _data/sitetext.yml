@@ -103,7 +103,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: " "
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: "Rachael"
@@ -116,6 +116,18 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+            
+       - name: "Sibonelo"
+        role: "Youth Leader"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+           
       
 
   contact:

@@ -23,16 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "In-reach"
         desc: "Youth Week of Prayer, Prayer Breakfast"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-handshake #find more at https://fontawesome.com/icons
       - title: "Outreach"
         desc: "GYD 2021"
-        icon: fas fa-laptop
+        icon: fas fa-bullhorn
       - title: "Campouts"
         desc: "Young adults’ campout 2021"
-        icon: fab fa-markdown
+        icon: fas fa-fire 
       - title: "Other"
         desc: "Social Sundays, hikes, lunches, picnics etc"
-        icon: fab fa-markdown
+        icon: fab fa-mountain
 
   portfolio:
     title: "Portfolio"

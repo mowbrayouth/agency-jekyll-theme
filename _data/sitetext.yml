@@ -87,12 +87,13 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "SDA Church"
-        url: https://www.adventist.org/
-        logo: assets/img/clients/church_logo.png
       - title: "Adventist Youth Website"
         url: https://www.gcyouthministries.org/
         logo: assets/img/clients/AY_Logo.png
+      - title: "SDA Church"
+        url: https://www.adventist.org/
+        logo: assets/img/clients/church_logo.png
+      
 
   team:
     title: "CURRENT LEADERS"

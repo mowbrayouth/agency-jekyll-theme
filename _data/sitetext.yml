@@ -15,11 +15,6 @@ en: &DEFAULT_EN
     text: Mowbray SDA Church Young Adults group!
     button: Tell Me More
     buttonlink: "#services"
-    
- carousel:
-    title: "Carousel"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: carousel
 
   services:
     title: "Activities"

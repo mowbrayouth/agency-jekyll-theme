@@ -92,7 +92,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/church_logo.png
       - title: "Adventist Youth Website"
         url: https://www.gcyouthministries.org/
-        logo: assets/img/clients/AY_logo.png
+        logo: assets/img/clients/AY_Logo.png
 
   team:
     title: "CURRENT LEADERS"

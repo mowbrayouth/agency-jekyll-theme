@@ -87,18 +87,12 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "SDA Church"
+        url: https://www.adventist.org/
+        logo: assets/img/clients/church_logo.png
+      - title: "Adventist Youth Website"
+        url: https://www.gcyouthministries.org/
+        logo: assets/img/clients/AY_logo.png
 
   team:
     title: "OUR AMAZING TEAM"

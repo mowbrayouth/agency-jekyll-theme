@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Activities"
+    title: "Young Adults"
     text: " "
     section: services
     list:
@@ -41,7 +41,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Adventist Youth"
+    title: "Activities"
     text: " "
     section: timeline
     # left is the default

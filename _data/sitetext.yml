@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         icon: fas fa-bullhorn
       - title: "Campouts"
         desc: "Young adults’ campout 2021"
-        icon: fab fa-fire
+        icon: fas fa-fire
       - title: "Other"
         desc: "Social Sundays, hikes, lunches, picnics etc"
-        icon: fab fa-mountain
+        icon: fas fa-mountain
 
   portfolio:
     title: "Gallery"

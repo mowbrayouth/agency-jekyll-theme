@@ -21,17 +21,17 @@ en: &DEFAULT_EN
     text: " "
     section: services
     list:
-      - title: "In-reach"
-        desc: "Youth Week of Prayer, Prayer Breakfast"
-        icon: fas fa-handshake #find more at https://fontawesome.com/icons
-      - title: "Outreach"
-        desc: "GYD 2021"
-        icon: fas fa-bullhorn
-      - title: "Campouts"
-        desc: "Young adults’ campout 2021"
+     - title: "AY MISSION"
+        desc: "The salvation of youth through Jesus Christ. We understand youth ministry to be that work of the church that is conducted for, with, and by young people."
+        icon: fas fa-rocket #find more at https://fontawesome.com/icons
+      - title: "AY AIM"
+        desc: "The Advent message to all the world in my generation."
+        icon: fas fa-bullseye
+      - title: "AY MOTTO "
+        desc: "The love of Christ compels me."
         icon: fas fa-fire
-      - title: "Other"
-        desc: "Social Sundays, hikes, lunches, picnics etc"
+      - title: "AY PLEDGE"
+        desc: "Loving the Lord Jesus, I promise to take an active part in the youth ministry of the church, doing what I can to help others and to finish the work of the Gospel in all the world."
         icon: fas fa-mountain
 
   portfolio:
@@ -47,24 +47,24 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: " AY MISSION"
+      - title: "In-reach"
         year: " "
-        desc: " The salvation of youth through Jesus Christ. We understand youth ministry to be that work of the church that is conducted for, with, and by young people."
+        desc: "Youth Week of Prayer, Prayer Breakfast "
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "AY AIM"
+      - title: "Outreach"
         year: " "
-        desc: "The Advent message to all the world in my generation."
+        desc: "GYD 2021"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: " AY MOTTO "
+      - title: "Campouts "
         year: " "
-        desc: "The love of Christ compels me."
+        desc: "Young adults’ campout 2021"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "AY PLEDGE"
+      - title: "Other"
         year: " "
-        desc: "Loving the Lord Jesus, I promise to take an active part in the youth ministry of the church, doing what I can to help others and to finish the work of the Gospel in all the world."
+        desc: "Social Sundays, hikes, lunches, picnics etc"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -95,14 +95,14 @@ en: &DEFAULT_EN
         logo: assets/img/clients/AY_logo.png
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "CURRENT LEADERS"
     text: " "
     subtext: 
     section: team
     people:
       - name: "Rachael"
         role: "Youth Leader"
-        image: assets/img/team/1.png
+        image: assets/img/team/1.JPG
         social:
           - url: https://twitter.com
             icon: fab fa-twitter

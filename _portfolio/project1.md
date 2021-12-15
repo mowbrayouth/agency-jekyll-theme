@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: 
+  subtitle: 
   thumbnail: 'assets/img/portfolio/02-thumbnail.jpg'
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: 
+subtitle: 
 image: 'assets/img/portfolio/02-thumbnail.jpg'
 
 ---

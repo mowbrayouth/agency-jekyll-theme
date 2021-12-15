@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: " "
     section: services
     list:
-     - title: "AY MISSION"
+      - title: "AY MISSION"
         desc: "The salvation of youth through Jesus Christ. We understand youth ministry to be that work of the church that is conducted for, with, and by young people."
         icon: fas fa-rocket #find more at https://fontawesome.com/icons
       - title: "AY AIM"

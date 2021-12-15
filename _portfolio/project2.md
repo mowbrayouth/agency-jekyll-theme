@@ -8,19 +8,4 @@ caption: #what displays in the portfolio grid:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: 'assets/img/portfolio/04-thumbnail.jpg'
-
-carousel:
-    - images: 
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-    - images: 
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
-      - image: /assets/img/portfolio/04-thumbnail.jpg
 ---
-
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}

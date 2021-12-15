@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Young Adults"
+    title: "Adventist Youth"
     text: " "
     section: services
     list:

@@ -102,7 +102,7 @@ en: &DEFAULT_EN
     people:
       - name: "Rachael"
         role: "Youth Leader"
-        image: assets/img/team/1.JPG
+        image: assets/img/team/1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter

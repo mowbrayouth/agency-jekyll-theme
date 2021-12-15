@@ -14,7 +14,7 @@
 theme: jekyll-agency
 
 url    : "https://mowbrayouth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 imagesurl: "/assets/img/gallery/"
 
 thumbsurl: "/assets/img/gallery/"

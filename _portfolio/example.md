@@ -10,5 +10,3 @@ subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: 'assets/img/portfolio/04-thumbnail.jpg'
 
 ---
-
-{% include image-gallery.html folder="/assets/img/protfolio" %}
